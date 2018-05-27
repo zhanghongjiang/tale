@@ -21,20 +21,20 @@ author: "Tiger"
 
 事实上，Reddit 的 CEO 在 Facebook 上的个人信息是公开的，所以我可以去那里看看关于他的细节。他住哪儿，他对什么感兴趣。我把这些信息带到了 Facebook 广告平台，以帮助缩小竞投关键词。但是我不想每个人都点击它，最好就一个人。于是我定制了广告词，直接针对我想让他读的那个人。
 
-“Steve: Reddit needs recommendations”
+“Steve: Reddit needs recommendations”    
 「史蒂夫: Reddit 需要建议」
 
 这则广告吸引了 197 人。4 人点击了它，其中一个是 Reddit 的 CEO。我总共花了10.62 美元。
 
 Steve Huffman，Reddit 的 CEO，看到了我的广告，点击了我的广告，阅读（也可能只是浏览）了我的文章，并且很喜欢这篇文章。他安排 Reddit 的人力资源部通知我去面试。
 
-Mission accomplished.
+Mission accomplished.    
 使命达成。
 
--
+-    
 2018 年 5 月 20 日，作者在 Reddit 工作两年后，写了这篇文章。写这篇文章相当于一封新的求职信，因为他离开 Reddit，在寻找新机会。
 
 ---
 
-Chris Seline
+> Chris Seline    
 [How I targeted the Reddit CEO with Facebook ads to get an interview at Reddit](http://twicsy-blog.tumblr.com/post/135712326189/hey-reddit-lets-make-some-recommendations)
