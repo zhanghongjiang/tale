@@ -31,11 +31,9 @@ Steve Huffman，Reddit 的 CEO，看到了我的广告，点击了我的广告�
 Mission accomplished.    
 使命达成。
 
+Chris Seline  
    
-> Tiger 注    
+> 译注    
 2018 年 5 月 20 日，作者在 Reddit 工作两年后，写了这篇文章。写这篇文章相当于一封新的求职信，因为他离开 Reddit，在寻找新机会。
-
----
-
-> Chris Seline    
-[How I targeted the Reddit CEO with Facebook ads to get an interview at Reddit](http://twicsy-blog.tumblr.com/post/135712326189/hey-reddit-lets-make-some-recommendations)
+  
+> [How I targeted the Reddit CEO with Facebook ads to get an interview at Reddit](http://twicsy-blog.tumblr.com/post/135712326189/hey-reddit-lets-make-some-recommendations)
