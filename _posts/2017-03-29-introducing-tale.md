@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introducing Tale"
-description: "测试一下为什么不换行呢？你值得思考。"
+description: "测试一下为什么不换行呢？你值得思考。写这篇文章相当于一封新的求职信写这篇文章相当于一封新的求职信写这篇文章相当于一封新的求职信"
 author: "Chester"
 ---
 
