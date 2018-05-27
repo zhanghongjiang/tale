@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Introducing Tale"
+description: "测试一下为什么不换行呢？你值得思考。"
 author: "Chester"
 ---
 
