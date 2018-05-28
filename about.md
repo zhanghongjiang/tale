@@ -1,15 +1,14 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "Tiger"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+两周前翻译了两个演讲，[给所有人的安全培训](http://train.eversec.cn/foreveryone)，[给工程师的安全培训](http://train.eversec.cn/forengineers)。收获最大的倒不是安全知识，而是语言水平。于是萌生一个想法，计划每周翻译一篇英语文章，取名`一周一译`，争取坚持一年。
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+本站采用 [Jekyll](https://jekyllrb.com/) 搭建，主题   `Tale`，地址是 [GitHub](https://github.com/chesterhow/tale)。这是一个极简主题，为追求文本阅读的舒适性而设计，甚合我意。只是原作者针对英语设计，中文显示不佳。我参考 [VuePress](https://vuepress.vuejs.org/) 对字体、字号、配色做了调整，更适于中文，以追求最佳阅读体验。
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+Tiger,mytiger@gmail.com    
+Beijing,2018-05-28
 
-Thanks for reading!
