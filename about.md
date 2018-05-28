@@ -12,5 +12,5 @@ permalink: /about/
 可以通过邮箱 mytiger@gmail.com 联系我。
 
 Tiger    
-Beijing,2018-05-28
+Beijing, 2018-05-28
 
