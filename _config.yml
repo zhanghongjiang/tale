@@ -1,12 +1,12 @@
 # Site settings
-title:          Tale
+title:         一周一译
 description:    "Minimal Jekyll theme for storytellers"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Tiger
+  url:          http://zhanghongjiang.me
+  email:        mytiger@gmail.com
 
 # Build settings
 markdown:       kramdown
