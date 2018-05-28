@@ -36,4 +36,4 @@ Chris Seline
 > 译注    
 2018 年 5 月 20 日，作者在 Reddit 工作两年后，写了这篇文章。此时他离开 Reddit，在寻找新机会，这篇文章相当于一封新的求职信。
   
-原文：[How I targeted the Reddit CEO with Facebook ads to get an interview at Reddit]（http://twicsy-blog.tumblr.com/post/174063770074/how-i-targeted-the-reddit-ceo-with-facebook-ads-to）
+原文：[How I targeted the Reddit CEO with Facebook ads to get an interview at Reddit](http://twicsy-blog.tumblr.com/post/174063770074/how-i-targeted-the-reddit-ceo-with-facebook-ads-to)
