@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "我是如何通过给 Reddit CEO 推送 Facebook 广告而得到面试机会"
-description: "为了得到 Reddit 的面试机会，作者不走寻常路，精心策划了一个 Facebook 广告推送给 Reddit 的 CEO。他成功了。"
+description: "为了得到 Reddit 的面试机会，作者不走寻常路，精心写了一篇自荐文章，然后策划了一个 Facebook 广告推送给 Reddit 的 CEO。他成功了。"
 author: "Tiger"
 ---
 
