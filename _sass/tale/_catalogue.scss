@@ -7,7 +7,7 @@
 
     &:hover .catalogue-line,
     &:focus .catalogue-line {
-      width: 6rem;
+      width: 7rem;
     }
 
     &:last-child {
@@ -31,7 +31,7 @@
   }
 
   &-line {
-    @include transition(all .3s ease-out);
+    @include transition(all .4s ease-out);
     border-top: .2rem solid $default-shade;
     display: block;
     width: 3rem;
