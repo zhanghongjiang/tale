@@ -24,7 +24,7 @@ author: "Tiger"
 
 ## 你是「结果经济」的一部分吗？
 
-独家创业培训平台`战略教练(Strategic Coach)`的创始人`丹·沙利文(Dan Sullivan)`将`时间和努力经济（Time-and-Effort Economy）`中的人与`结果经济（Results Economy）`中的人区分开来。
+独家创业培训平台「战略教练」的创始人丹·沙利文将`时间和努力经济`（Time-and-Effort Economy）中的人与`结果经济`（Results Economy）中的人区分开来。
 
 如果你处在「时间和努力经济」中，你就会专注于忙碌，你实际上相信你投入的时间和精力值得称赞。那些专注于「忙碌」的人在某种程度上受到保护，不受其所作所为的后果影响。他们没有必要提出解决方案，很有可能，他们只是普通雇员，作为官僚机构的一部分，他们努力遵守规则，而不是打破规则。
 
@@ -138,9 +138,12 @@ author: "Tiger"
 
 如果你的行为立即得到结果的反馈——你就会更多处于心流状态。你的表现会变好，你的工资会增加，你的幸福感会提高。
 
-* It’s not great power that creates great responsibility. It’s great responsibility that creates power. 不是强权导致了巨大的责任，是巨大的责任生发出力量。
-* It’s not confidence that creates success. It’s successful behavior that creates confidence. 不是自信带来了成功，是成功的行为创造了自信。
-* It’s not personality that creates behavior. It’s behavior that creates personality. 不是个性塑造了行为，是行为塑造了个性。
+* It’s not great power that creates great responsibility. It’s great responsibility that creates power.  
+  不是强权导致了巨大的责任，是巨大的责任生发出力量。
+* It’s not confidence that creates success. It’s successful behavior that creates confidence.  
+  不是自信带来了成功，是成功的行为创造了自信。
+* It’s not personality that creates behavior. It’s behavior that creates personality.  
+  不是个性塑造了行为，是行为塑造了个性。
 
 如果你想在生活中拥有真正的自由，你需要承担责任。自由只能因结果而存在——而不是因为没有结果。只有当你的行为很重要的时候你才是自由的。
 
@@ -149,7 +152,7 @@ author: "Tiger"
 在关系中获得自由的唯一方法就是双方都在游戏中有自己的皮肤（利益攸关）。当双方都投资于这种关系时，当每个人的表现所带来的后果影响到整体时，每个参与其中的人都会欣然接受这个现实，因为他们有相互的爱、尊重和责任。
 
 > 译注：  
-> 塔勒布新书`Skin in the game（利益攸关）`的观点可以看看如下万维钢的解读。
+> 塔勒布新书`Skin in the game`（利益攸关）的观点可以看看如下万维钢的解读。
 
 > skin in the game。这句英文的意思是说你在这个游戏里得有一点皮肤，有点切肤之痛，说白了就是你得出点血。出了事儿，你得承担一点责任。
 
@@ -160,10 +163,8 @@ author: "Tiger"
 > 说白了就是没事儿别找事儿。换成这本书的语境，就是第一，你不要祸害别人；第二，你要是不想承担这个风险，你就别做决定。
 
 > 1.别人对我的做法  
-> 所以如果别人要给你提建议，首先他自己得相信这个建议，最好他还得这么做过。他得用信用背书。
-> 2.我对自己的做法  
-> 原则是好好学习不要被淘汰。塔勒布不认可「寓教于乐」，他说为了满足好奇心、为了快乐而学习，不如因为痛苦而学习。
-> 3.我对世界的做法  
+> 所以如果别人要给你提建议，首先他自己得相信这个建议，最好他还得这么做过。他得用信用背书。 2.我对自己的做法  
+> 原则是好好学习不要被淘汰。塔勒布不认可「寓教于乐」，他说为了满足好奇心、为了快乐而学习，不如因为痛苦而学习。 3.我对世界的做法  
 > 首先就是前面讲的白银规则。但是如果你还想做的更好一点，想要追求荣誉的话，还有比`skin in the game` 更高的一个境界，叫 `soul in the game`，灵魂攸关。所谓灵魂攸关，是本来这个游戏里没有你的利益，但是你把它当成自己的利益。
 
 原文：[One Decision Separates The Wealthy From The Non-Wealthy](https://medium.com/thrive-global/want-automatic-motivation-and-wealth-do-this-one-thing-immediately-7ae22a88731c)
