@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "让设计变得更好的七个实用技巧"
-description: "在 Hacker News 广受好评的一篇讲设计技巧的文章。容易理解，容易上手，有立竿见影的效果。"
-author: "Tiger"
+title: 让设计变得更好的七个实用技巧
+description: 在 Hacker News 广受好评的一篇讲设计技巧的文章。容易理解，容易上手，有立竿见影的效果。
+author: Tiger
 ---
 
 > 靠技巧而不是天赋来改进你的设计
@@ -191,7 +191,7 @@ author: "Tiger"
 
 ![](../images/2018-05-19/7.5.png)
 
-> 译注：  
+> 译注：          
 > 对每一条规则都有争议，这是难免的。比如第二条，让文字接近背景色，这是通过降低对比度来增加美感，但有可能降低可读性。有一个网站大力反对低对比度：[CONTRAST REBELLION](http://contrastrebellion.com/)
 
 原文：[7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
