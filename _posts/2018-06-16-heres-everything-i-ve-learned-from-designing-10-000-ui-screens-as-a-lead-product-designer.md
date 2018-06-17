@@ -57,7 +57,7 @@ _不要重新发明轮子，你就有更多时间和精力去设计宇宙飞船�
 ![](../images/2018-06-16/4.1.png "Image with caption")
 _使用 UX Power Tools 中的元素构建_
 
-你可以看看我在 UX Power Tools 上建立的一些设计系统，我觉得他们会很好地帮助你。
+你可以看看我在 [UX Power Tools](https://www.uxpower.tools/) 上建立的一些设计系统，我觉得他们会很好地帮助你。
 
 ## 5. 一致性产生效率
 
@@ -73,7 +73,7 @@ _使用 UX Power Tools 中的元素构建_
 
 ## 6. 效率产生一致性
 
-一致性和效率是公生的，所以反过来说也对。
+一致性和效率是共生的，所以反过来说也对。
 
 为了更快地工作，你必须为自己找捷径。这些捷径可以是有形的东西，比如设计资源。也可以是无形的东西，比如建立和遵循一系列的设计原则（8px 的网格系统就是）。
 
@@ -101,11 +101,11 @@ _使用 UX Power Tools 中的元素构建_
 
 我写了一个系列文章：
 
-1.  为谁设计？为买进而设计  
+1.  [为谁设计？为买进而设计](https://medium.com/ux-power-tools/who-are-we-designing-for-designing-for-buy-in-part-1-of-3-7fc8d4320e33)  
     谁最终购买了你的设计？
-2.  为谁设计？为生产而设计  
+2.  [为谁设计？为生产而设计](https://medium.com/ux-power-tools/who-are-we-designing-for-the-production-team-part-2-of-3-95c058747e4b)  
     谁来帮助你开发你的设计或想法？
-3.  为谁设计？为质量和标准团队而设计  
+3.  [为谁设计？为质量和标准团队而设计](https://medium.com/ux-power-tools/who-are-we-designing-for-the-quality-and-standards-teams-part-3-of-3-19d467523fa2)  
     等等，我还没说完呢。谁来保证这个计划真的如预期的那样运作？
 
 ## 9. 伟大的设计会因为糟糕的展示而失败
