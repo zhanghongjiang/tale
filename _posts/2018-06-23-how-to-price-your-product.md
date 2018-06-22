@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 我们如何思考产品定价
-description: 在线客服 SaaS 供应商 Drift 创始人对定价的思考。好的产品定价应该是：客户因为得到好处，从而心甘情愿付费。帮助他人是新型的销售。
+description: 在线客服 SaaS 供应商 Drift 创始人对定价的思考。好的产品定价应该是客户付出的价格和得到的价值一致，这样客户才会心甘情愿的付费。
 author: Tiger
 ---
 
