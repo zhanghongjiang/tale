@@ -4,10 +4,12 @@ layout: default
 
 <div class="post">
   <div class="post-info">
-    <span>Translated by</span>
+    
     {% if page.author %}
+    <span>Translated by</span>
         {{ page.author }}
     {% else %}
+    <span>Written by</span>
         {{ site.author.name }}
     {% endif %}
 
