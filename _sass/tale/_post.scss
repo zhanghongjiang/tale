@@ -40,6 +40,12 @@
     margin: 0 auto 0.5rem;
   }
 
+  img[src*="full"] {
+    max-width: 98vw;
+    margin-left: 50%;
+    transform: translateX(-50%);
+  }
+
   img + em {
     color: $default-tint;
     display: block;
