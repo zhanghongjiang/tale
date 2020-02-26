@@ -67,3 +67,21 @@ img {
 td {
   vertical-align: top;
 }
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th, td {
+  padding: 0.25rem;
+  text-align: left;
+  border-bottom: 1px solid #ccc;
+}
+
+th{
+  border-top: 1px solid #ccc;
+  background: #f8f8f8;
+}
+tbody tr:nth-child(even) {
+  background: #f8f8f8;
+}
