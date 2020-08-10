@@ -5,7 +5,7 @@ description: 是什么让你开心？是什么让你闹心？
 author: Tiger
 ---
 
-![](/images/2020-08-10/juliezhuo.jpg "Image with caption")
+![](../images/2020-08-10/juliezhuo.jpg "Image with caption")
 _本文作者：Julie Zhuo(Facebook 产品设计副总裁）_
 
 曾几何时，我在收件箱里收到一封重要的邮件，提醒我注意一些令人沮丧的消息。
